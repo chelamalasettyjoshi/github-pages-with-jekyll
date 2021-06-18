@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Sunil Joshi blog "
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am Sunil Joshi from **DevOPS & GitHub**
