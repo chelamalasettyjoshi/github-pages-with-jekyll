@@ -1,12 +1,12 @@
+theme: minima
 title: Sunil Joshi
 author: GitHub User
 email: chelamalasettyjoshi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi all, I am Sunil Joshi aka **SJ** and I am from *DevOps & GitHub*
+  About me!
 
 # social links
-twitter_username: chelamalasetty joshi # DO NOT include the @ character, or else the build will fail!
-github_username:  chelamalasetty joshi # DO NOT include the @ character, or else the build will fail!
+twitter_username: joshi_twitter # DO NOT include the @ character, or else the build will fail!
+github_username:  joshi_git # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
